@@ -1,7 +1,7 @@
 <a href="https://github.com/helix-php/framework" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/helix-php/.github/blob/master/logo/dark.png?raw=true">
-        <img align="center" src="https://github.com/helix-php/.github/blob/master/logo/white.png?raw=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/helix-php/.github/blob/master/assets/dark.png?raw=true">
+        <img align="center" src="https://github.com/helix-php/.github/blob/master/assets/white.png?raw=true">
     </picture>
 </a>
 
